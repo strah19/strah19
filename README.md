@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm strah19</h1>
 <h3 align="center">A programmer focused on C and C++ development</h3>
 
-- 🔭 I’m currently working on [YAPL](https://github.com/strah19/YAPL)
+- 🔭 I’m currently working on [YAPL](https://github.com/strah19/polaris)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
